@@ -1,5 +1,6 @@
 # tictactoe-game
 This repository contains a mobile-responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It offers a classic gaming experience with a unique design and features including:
+
     Responsive design: Play on any device, from mobile phones to desktops.
     Winning logic: The game automatically detects wins and draws.
     Player turn indication: Clear messages for whose turn it is.
@@ -28,3 +29,8 @@ Feel free to customize the game's design and appearance by editing the style.css
 Contributions:
 
 Contributions, bug reports, and feature requests are welcome! Please open issues and pull requests to improve the game.
+
+License:
+This project is licensed under the MIT License.
+
+Enjoy playing and have fun coding!
